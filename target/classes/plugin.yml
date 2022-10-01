@@ -1,0 +1,10 @@
+name: BitCoinPluginTest
+version: '1.0-SNAPSHOT'
+main: net.kormons.bitcoinplugintest.BitCoinPluginTest
+api-version: 1.18
+softdepend: [ Vault ]
+authors: [ kormons ]
+description: BitCoinPluginTest
+commands:
+  비트코인:
+  비트코인관리:

@@ -1,0 +1,9 @@
+net\kormons\bitcoinplugintest\task\BitCoinPriceChangeTask.class
+net\kormons\bitcoinplugintest\task\BitCoinPriceChangeTask$1.class
+net\kormons\bitcoinplugintest\command\OpCommand.class
+net\kormons\bitcoinplugintest\listener\onJoinListener.class
+net\kormons\bitcoinplugintest\command\tablist\CommandTab.class
+net\kormons\bitcoinplugintest\BitCoinPluginTest.class
+net\kormons\bitcoinplugintest\util\Util.class
+net\kormons\bitcoinplugintest\command\PlayerCoinCommand.class
+net\kormons\bitcoinplugintest\model\BitCoinManager.class
